@@ -6,6 +6,8 @@ ParseBud是一个未上架app store的app,用来观看youtube视频,使用者需
 | --- | --- | --- | --- | --- |
 | ![](https://raw.githubusercontent.com/m3u8playlist/ParseBud/main/1.jpg) | ![](https://raw.githubusercontent.com/m3u8playlist/ParseBud/main/2.jpg) |![](https://raw.githubusercontent.com/m3u8playlist/ParseBud/main/3.jpg) | ![](https://raw.githubusercontent.com/m3u8playlist/ParseBud/main/4.jpg) | ![](https://raw.githubusercontent.com/m3u8playlist/ParseBud/main/5.jpg) |
 
+TG:https://t.me/dotplayer
+Twitter:@moonzju
 
 ## app特色
 
