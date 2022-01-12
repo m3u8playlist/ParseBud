@@ -3,7 +3,7 @@
 ParseBud是一个未上架app store的app,用来观看youtube视频,使用者需要自签app
 使用本app需要很强的动手能力和计算机知识,小白用户请略过,个人精力有限,不提供技术支持
 
-![](https://raw.githubusercontent.com/m3u8playlist/ParseBud/main/1.jpg) | ![](https://raw.githubusercontent.com/m3u8playlist/ParseBud/main/2.jpg) |![](https://raw.githubusercontent.com/m3u8playlist/ParseBud/main/3.jpg) | ![](https://raw.githubusercontent.com/m3u8playlist/ParseBud/main/4.jpg) | ![](https://raw.githubusercontent.com/m3u8playlist/ParseBud/main/5.jpg)
+| ![](https://raw.githubusercontent.com/m3u8playlist/ParseBud/main/1.jpg) | ![](https://raw.githubusercontent.com/m3u8playlist/ParseBud/main/2.jpg) |![](https://raw.githubusercontent.com/m3u8playlist/ParseBud/main/3.jpg) | ![](https://raw.githubusercontent.com/m3u8playlist/ParseBud/main/4.jpg) | ![](https://raw.githubusercontent.com/m3u8playlist/ParseBud/main/5.jpg) |
 
 
 ## app特色
