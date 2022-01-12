@@ -3,6 +3,8 @@
 ParseBud是一个未上架app store的app,用来观看youtube视频,使用者需要自签app
 使用本app需要很强的动手能力和计算机知识,小白用户请略过,个人精力有限,不提供技术支持
 
+
+
 ## app特色
 
 1. 观看YouTube 720P视频
@@ -35,6 +37,11 @@ ParseBud是一个未上架app store的app,用来观看youtube视频,使用者需
 
 推荐使用altserver
 https://altstore.io/
+
+## 安装完成后设置app
+1. 设置服务器
+2. 设置youtube api
+3. 更新youtube规则,然后点击保存配置按钮
 
 
 ## 注意实现
