@@ -1,5 +1,8 @@
 # ParseBud
 
+请移步https://github.com/m3u8playlist/dp
+安装iplayr,已包含此app功能
+
 ParseBud是一个未上架app store的app,用来观看youtube视频,使用者需要自签app
 使用本app需要一定的动手能力和计算机知识,小白用户请略过,个人精力有限,不提供技术支持
 |1|2|3|4|5|
