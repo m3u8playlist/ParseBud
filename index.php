@@ -10,8 +10,15 @@ else{
     header('Content-Type: text/html; charset=utf-8');
     switch($_GET['cmd']){
         case "get_json":
-        $output = shell_exec('yt-dlp -j ' . $_GET['url']);
+            if (strstr($_GET['url'], 'youtube')!==false) {
+                   $output = shell_exec('yt-dlp -j ' . $_GET['url'] . ' --extractor-arg "youtube:player_client=mediaconnect"');
         echo "$output";
+                }
+            else{
+                   $output = shell_exec('yt-dlp -j ' . $_GET['url']);
+        echo "$output";
+            }
+     
         break;
         case "update":
         $output = shell_exec('yt-dlp -U');
